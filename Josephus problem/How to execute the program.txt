@@ -1,0 +1,8 @@
+Step 1 :
+	Install java jdk.
+	
+Step 2 :
+	Compilation : javac JosephusProblem.java
+
+Step 3 :
+	Execution : java JosephusProblem 1 2 3 4 5 6	
