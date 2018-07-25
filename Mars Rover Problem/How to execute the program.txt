@@ -1,0 +1,12 @@
+step 1 :
+	Install java jdk.
+	
+step 2 :
+	Compilation : javac RoverApplication.java
+
+step 3 :
+	Execution : java RoverApplication
+	
+step 4 :
+	Provide the inputs as shown in test cases in the file "Mars Rover Problem Statement.txt".
+		
