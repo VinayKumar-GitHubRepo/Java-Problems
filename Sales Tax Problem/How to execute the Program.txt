@@ -1,0 +1,26 @@
+Step:1
+    Open Command Prompt and go to Sales Tax Problem folder.
+Step:2
+    Initialize the value of the number of products for input.
+	Example:If three products.
+	        Go to the SalesTaxProblem.java and in the 14th line initialize the value as 3 and save it.
+Step:3
+    Compilation : javac SalesTaxProblem.java
+	Excecution  : java SalesTaxProblem
+Step:4
+    Now Input should be given,
+	Compulsory "at" should be placed before the value of the product in input.
+	The format of input should be :
+
+    1 book at 12.49    //Input of first product and press enter
+	1 book : 12.49     //Output of first product
+	1 music CD at 14.99   //Input of second product and press enter
+    1 music CD: 16.49   //Output of second product
+	1 chocolate bar at 0.85	  //Input of third product and press enter
+    1 chocolate bar: 0.85   //Output of third product
+    Sales Taxes: 1.50    //Output of total tax
+    Total: 29.83      //Output of total bill
+Step:5
+    If again this program need to be execute with different number of products,
+	Go to the Sales Tax Problem folder and delete all .class files.
+	And then follow from Step:2.
