@@ -1,0 +1,57 @@
+Step:1
+    Compilation : javac TicTacToe.java
+	Excecution  : java TicTacToe
+Step:2
+    The Input format is :
+	
+    Player "X" enter your move between (0-2) and (0-2) ://output first line
+	1 2 //this is the input of row (Should be between 0 and 2) and coloumn (Should be between 0 and 2) in the tic tac toe.
+	    //Similarly every player has three moves.
+		//if the three moves are in staraight line (or) in backslash (or) in frontslash type the winner will be that player.
+    
+Step:5
+    Result :
+	
+Player "X" enter your move between (0-2) and (0-2) :
+1 2
+  |   |
+----------
+  |   | X
+----------
+  |   |
+Player "O" enter your move between (0-2) and (0-2) :
+0 1
+  | O |
+----------
+  |   | X
+----------
+  |   |
+Player "X" enter your move between (0-2) and (0-2) :
+2 2
+  | O |
+----------
+  |   | X
+----------
+  |   | X
+Player "O" enter your move between (0-2) and (0-2) :
+0 0
+O | O |
+----------
+  |   | X
+----------
+  |   | X
+Player "X" enter your move between (0-2) and (0-2) :
+0 2
+O | O | X
+----------
+  |   | X
+----------
+  |   | X
+Player "O" enter your move between (0-2) and (0-2) :
+1 0
+O | O | X
+----------
+O |   | X
+----------
+  |   | X
+The winner is "X"
